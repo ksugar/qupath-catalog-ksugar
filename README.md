@@ -27,7 +27,7 @@ To use this catalog in QuPath:
 1. Open QuPath
 2. Go to **Extensions → Manage extensions**
 3. Click **Manage extension catalogs**
-4. Enter the catalog URL: `https://raw.githubusercontent.com/ksugar/qupath-catalog-sam/main/catalog.json`
+4. Enter the catalog URL: `https://github.com/ksugar/qupath-catalog-ksugar`
 5. Browse and install the extensions you need
 
 ## About QuPath catalogs
