@@ -1,0 +1,34 @@
+{
+    "name": "QuPath catalog ksugar",
+    "description": "Extensions maintained by Ko Sugawara",
+    "extensions": [{
+        "name": "QuPath SAM extension",
+        "description": "Extension to run Segment Anything Model (SAM) through QuPath",
+        "author": "QuPath",
+        "homepage": "https://github.com/ksugar/qupath-extension-sam",
+        "starred": true,
+        "releases": [
+            {
+                "name": "v0.7.0",
+                "main_url": "https://github.com/ksugar/qupath-extension-sam/releases/download/v0.7.0/qupath-extension-sam-0.7.0.jar",
+                "version_range": {
+                    "min": "v0.5.1"
+                }
+            }
+        ]
+    },{
+        "name": "QuPath Cellsparse extension",
+        "description": "A QuPath extension to run Cellsparse through QuPath",
+        "author": "QuPath",
+        "homepage": "https://github.com/ksugar/qupath-extension-cellsparse",
+        "releases": [
+            {
+                "name": "v0.2.0",
+                "main_url": "https://github.com/ksugar/qupath-extension-cellsparse/releases/download/v0.2.0/qupath-extension-cellsparse-0.2.0.jar",
+                "version_range": {
+                    "min": "v0.5.1"
+                }
+            }
+        ]
+    }]
+}
