@@ -9,7 +9,7 @@ This catalog includes the following extensions:
 ### QuPath SAM extension ⭐
 Extension to run Segment Anything Model (SAM) through QuPath. This extension enables powerful AI-based segmentation capabilities directly within the QuPath environment.
 
-- **Latest version**: v0.7.0
+- **Latest version**: v0.8.0
 - **Repository**: https://github.com/ksugar/qupath-extension-sam
 - **QuPath compatibility**: v0.5.1+
 
