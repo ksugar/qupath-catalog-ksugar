@@ -10,7 +10,7 @@
         "releases": [
             {
                 "name": "v0.8.0",
-                "main_url": "https://github.com/ksugar/qupath-extension-sam/releases/download/v0.8.0/qupath-extension-sam-0.8.0.jar",
+                "main_url": "https://github.com/ksugar/qupath-extension-sam/releases/download/v0.8.0/qupath-extension-sam-0.8.0-all.jar",
                 "version_range": {
                     "min": "v0.5.1"
                 }
